@@ -1,0 +1,6 @@
+@RPGItemnsAPI_HostAddress = http://localhost:5047
+
+GET {{RPGItemnsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
