@@ -269,11 +269,11 @@ async Task ListarItensAsync()
     foreach (var item in itens)
     {
         string estrelas = new string('⭐', item.Rarity);
-        int espacosNecessarios = 10 - (item.Rarity * 3);
+        int espacosNecessarios = 10 - (item.Rarity * 2);
         
         Console.Write($"║ {item.Id,-3} ║ {item.Name,-25} ║ {estrelas}");
         Console.Write(new string(' ', espacosNecessarios));
-        Console.WriteLine($" ║ R$ {item.Price,15:F2}  ║");
+        Console.WriteLine($"║ R$ {item.Price,15:F2}  ║");
     }
     
     Console.ForegroundColor = ConsoleColor.Cyan;
