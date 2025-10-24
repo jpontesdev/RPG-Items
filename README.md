@@ -20,7 +20,7 @@ O **RPG Itens Manager** é uma aplicação que combina uma API RESTful com uma i
 
 ## 📂 Acesso ao projeto
 
-Você pode acessar os arquivos do projeto clicando [aqui]([https://github.com/seu-usuario/RPG-Items-main](https://github.com/jpontesdev/RPG-Items).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/jpontesdev/RPG-Items)
 
 **Como executar:**
 - dotnet restore
