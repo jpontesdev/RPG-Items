@@ -48,7 +48,6 @@ C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\obj\Debug\net9.0-
 C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
 C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\obj\Debug\net9.0-windows\App.g.cs
 C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\obj\Debug\net9.0-windows\RPG-Items.WPF_MarkupCompile.cache
-C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\obj\Debug\net9.0-windows\RPG-Items.WPF_MarkupCompile.lref
 C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\obj\Debug\net9.0-windows\MainWindow.baml
 C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\obj\Debug\net9.0-windows\RPG-Items.WPF.g.resources
 C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\obj\Debug\net9.0-windows\RPG-Items.WPF.GeneratedMSBuildEditorConfig.editorconfig

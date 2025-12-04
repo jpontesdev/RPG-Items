@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPG-Items.WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8109c888bc3a3c6bc067cb8686f6d89968409f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ddcd88d2ecfba1879e79c269e9dd821b815a137")]
 [assembly: System.Reflection.AssemblyProductAttribute("RPG-Items.WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPG-Items.WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
