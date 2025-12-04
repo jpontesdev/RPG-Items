@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\bin\Debug\net9.0\RPG-Items.Core.deps.json
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\bin\Debug\net9.0\RPG-Items.Core.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\bin\Debug\net9.0\RPG-Items.Core.dll
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\bin\Debug\net9.0\RPG-Items.Core.pdb
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\obj\Debug\net9.0\RPG-Items.Core.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\obj\Debug\net9.0\RPG-Items.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\obj\Debug\net9.0\RPG-Items.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\obj\Debug\net9.0\RPG-Items.Core.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\obj\Debug\net9.0\RPG-Items.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\obj\Debug\net9.0\RPG-Items.Core.sourcelink.json
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\obj\Debug\net9.0\RPG-Items.Core.dll
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\obj\Debug\net9.0\refint\RPG-Items.Core.dll
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\obj\Debug\net9.0\RPG-Items.Core.pdb
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\obj\Debug\net9.0\RPG-Items.Core.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.Core\obj\Debug\net9.0\ref\RPG-Items.Core.dll
