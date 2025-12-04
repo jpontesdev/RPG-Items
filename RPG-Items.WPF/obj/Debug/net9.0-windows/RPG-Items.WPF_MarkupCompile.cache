@@ -1,19 +1,19 @@
 ﻿RPG-Items.WPF
-
+1.0.0.0
 
 winexe
 C#
 .cs
-C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\obj\Debug\net9.0-windows\
+c:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\obj\Debug\net9.0-windows\
 RPG_Items.WPF
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\App.xaml
+c:\Users\Usuario\Documents\Projetos\DS\RPG-Items\RPG-Items.WPF\App.xaml
 11407045341
 
-4185668203
-219971127992
+6-1367182632
+219-1255086726
 MainWindow.xaml;
 
 False
