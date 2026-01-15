@@ -31,5 +31,5 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/jpo
 
 # Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/134797061?v=4" width=115><br><sub>João Vitor Jardim</sub>](https://github.com/JoaoPontes05) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/126476225?v=4" width=115><br><sub>Gabriel Duarte</sub>](https://github.com/GabrielRainwalker) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/134797061?v=4" width=115><br><sub>João Vitor Jardim</sub>](https://github.com/jpontesdev) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/126476225?v=4" width=115><br><sub>Gabriel Duarte</sub>](https://github.com/GabrielRainwalker) |
 | :---: | :---: |
